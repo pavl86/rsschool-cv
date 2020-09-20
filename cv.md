@@ -14,3 +14,11 @@ Loseu Pavel
 * 2004.10-2005.08 maintenance of computers and office equipment in the "Palace of extracurricular activities Zolak"
 * the rest of the time - electrical installation, assembly and sale of desktop computers and peripherals...
 ---
+**Skills:**
+* HTML and CSS
+* JavaScript
+* React
+* GitHab, Git Kraken, VSCode, AVCode, Marsy, Figma
+* Bootstrap, Grid, BEM
+
+---
