@@ -29,3 +29,5 @@ ___
 * 2013.11.05-2013.12.24 course "Web programming PHP + MySQL"
 * 2002-2004 cource "PC operator"
 * 2002-2004 cource "Public Relations Manager"
+___
+**English: A2** 
