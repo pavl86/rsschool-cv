@@ -7,6 +7,7 @@ Loseu Pavel
 * skype **pavel-p.6a**
 * e-mail: **p.6a@tut.by**
 ---
+
 **Summary:**
 *I want to change my profession (from an electrical installer of security and fire systems) to a frontend developer.*
 * *now studying at Rolling Scopes School on the JavaScript / Frontend course*
