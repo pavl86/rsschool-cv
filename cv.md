@@ -20,7 +20,6 @@ Loseu Pavel
 * React
 * GitHab, Git Kraken, VSCode, AVCode, Marsy, Figma
 * Bootstrap, Grid, BEM
-
 ---
 **Code examples** - [my githab account](https://github.com/pavl86)
 ___
