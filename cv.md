@@ -1,34 +1,40 @@
 Loseu Pavel
 
 ---
-*I'm 34 (1986.08.17). I live in Minsk.* **My contacts:** 
-* tel/viber/telegram: **+375(29)2618099**  mts
-* [facebook](https://www.facebook.com/p.6a666/), [vk](https://vk.com/pavel_losev)
+**My contacts:** 
+* tel/viber/telegram: **+375(29)2618099**
 * skype **pavel-p.6a**
 * e-mail: **p.6a@tut.by**
 ---
 
 **Summary:**
-*I want to change my profession (from an electrical installer of security and fire systems) to a frontend developer.*
-* *now studying at Rolling Scopes School on the JavaScript / Frontend course*
-* 2017.04-2019.12 electric installer at the CHPP in the city of Anadyr, Chukotka (my last job)
-* 2008.10-2009.06 system administrator at the medical college, Minsk
-* 2004.10-2005.08 maintenance of computers and office equipment in the "Palace of extracurricular activities Zolak"
-* the rest of the time - electrical installation, assembly and sale of desktop computers and peripherals...
+* Hi, my name is Pavel. I'm 34 and currently live in Minsk.
+* I want to change my profession from security and fire systems installer to frontend developer.
+
+---
+**Work experience:**
+* 2017.04 - 2019.12, electric installer at the CHPP in the city of Anadyr, Chukotka (my last job)
+* 2008.10 - 2009.06, systems administrator at the medical college, Minsk
+* 2004.10 - 2005.08, maintenance of computers and office equipment in the "Palace of extracurricular activities Zolak"
+* the rest of the time - assembly, installation and sale of desktop computers and peripherals
+
 ---
 **Skills:**
-* HTML and CSS
-* JavaScript (in the process of studying)
-* React (in the process of studying)
-* GitHab, Git Kraken, VSCode, AVCode, Marsy, Figma
-* Bootstrap, Grid, BEM
+* JavaScript (studying now)
+* HTML and CSS (Bootstrap, BEM)
+* Git, VSCode, Figma, AVCode, Marsy
+
 ---
-**Code examples** - [my githab account](https://github.com/pavl86)
+**My code examples**
+* [github profile](https://github.com/pavl86)
+
 ---
-**Experience and Education**
-* 2020 completed course (and received a certificate) "Web developer 2020" on udemy.com (author: Ivan Petrichenkov)
-* 2013.11.05-2013.12.24 course "Web programming PHP + MySQL"
-* 2002-2004 cource "PC operator"
-* 2002-2004 cource "Public Relations Manager"
+**Education**
+* 2020.05 - 2020.07 - completed Udemy course "Web developer 2020" ([certificate](https://www.udemy.com/certificate/UC-0eced09e-4689-471c-83d5-780fa9537977))
+* 2013.11 - 2013.12 - completed course "Web programming PHP + MySQL"
+
 ---
-**English: A2** 
+**Languages**
+* English - A2*
+* Belarusian - native*
+* Russian - native*
