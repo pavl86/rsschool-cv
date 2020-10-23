@@ -18,8 +18,8 @@ Loseu Pavel
 ---
 **Skills:**
 * HTML and CSS
-* JavaScript
-* React
+* JavaScript (in the process of studying)
+* React (in the process of studying)
 * GitHab, Git Kraken, VSCode, AVCode, Marsy, Figma
 * Bootstrap, Grid, BEM
 ---
