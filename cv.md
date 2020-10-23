@@ -24,11 +24,11 @@ Loseu Pavel
 * Bootstrap, Grid, BEM
 ---
 **Code examples** - [my githab account](https://github.com/pavl86)
-___
+---
 **Experience and Education**
 * 2020 completed course (and received a certificate) "Web developer 2020" on udemy.com (author: Ivan Petrichenkov)
 * 2013.11.05-2013.12.24 course "Web programming PHP + MySQL"
 * 2002-2004 cource "PC operator"
 * 2002-2004 cource "Public Relations Manager"
-___
+---
 **English: A2** 
