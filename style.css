@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color: #3366CC;
+    }
+    header {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-basis:40%;
+        text-align: center;
+        margin: 10px;
+    }
+    .header {
+        margin: 20px;
+    }
+    .wrapper {
+        margin-left: auto;
+        margin-right: auto;
+        width: 1200px;
+
+    }
+    .ava {
+        width: 200px;
+    }
+
+    .li {
+        font-style: italic;
+    }
